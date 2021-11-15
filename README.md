@@ -2,7 +2,7 @@
 
 Please start with input your ncbi account (email) to the first code block.
 
-Then enter your requested PMID and related GEO entry manually
+Then enter your requested PMID and related GEO accession manually
 
 You can run it on google colab by this link
 
